@@ -1,17 +1,22 @@
-### Hi there 👋
+# Lucas Sanchez
 
-<!--
-**lucaswsanchez/lucaswsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+¡Hola! soy Lucas Sanchez, estudiante de la carrera Analista de Sistemas y un desarrollador apasionado por la tecnología y el código abierto. Me encanta aprender cosas nuevas y compartir mis conocimientos con la comunidad.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+Conocimientos en:
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- C++
+
+Me encuentro aprendiendo:
+- PHP
+- Laravel
+
+## Contacto
+- Email: 42994495lucas@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lucaswsanchez/)
+- [Portfolio](https://sanchezlucas-portfolio.netlify.app/)
