@@ -1,5 +1,3 @@
-# Lucas Sanchez
-
 ## Sobre mí
 ¡Hola! soy Lucas Sanchez, estudiante de la carrera Analista de Sistemas y un desarrollador apasionado por la tecnología y el código abierto. Me encanta aprender cosas nuevas y compartir mis conocimientos con la comunidad.
 
