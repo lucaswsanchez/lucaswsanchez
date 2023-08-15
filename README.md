@@ -1,20 +1,20 @@
-## Sobre mí
-¡Hola! soy Lucas Sanchez, estudiante de la carrera Analista de Sistemas y un desarrollador apasionado por la tecnología y el código abierto. Me encanta aprender cosas nuevas y compartir mis conocimientos con la comunidad.
+## About me
+Hi, I'm Lucas Sanchez, an Associate Degree student in Systems Analytics and a developer with passion for technology and open source code. I love to learn new things and share my knowledge with the community.
 
-## Tecnologias
+## Technologies
 
-Conocimientos en:
+Knowledge in:
 - JavaScript
 - TypeScript
 - HTML
 - CSS
 - C++
 
-Me encuentro aprendiendo:
+I'm learning:
 - PHP
 - Laravel
 
-## Contacto
+## Contact
 - Email: 42994495lucas@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/lucaswsanchez/)
 - [Portfolio](https://sanchezlucas-portfolio.netlify.app/)
