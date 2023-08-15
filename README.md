@@ -1,5 +1,5 @@
 ## About me
-Hi, I'm Lucas Sanchez, an Associate Degree student in Systems Analytics and a developer with passion for technology and open source code. I love to learn new things and share my knowledge with the community.
+Hi, I'm Lucas Sanchez, an Associate Degree student in Systems Analytics with passion for technology and open source code. I love to learn new things and share my knowledge with the community.
 
 ## Technologies
 
