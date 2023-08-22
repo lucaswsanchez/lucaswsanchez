@@ -11,8 +11,8 @@ Knowledge in:
 - C++
 
 I'm learning:
-- PHP
-- Laravel
+- C#
+- .NET
 
 ## Contact
 - Email: 42994495lucas@gmail.com
