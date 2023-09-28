@@ -6,6 +6,8 @@ Hi, I'm Lucas Sanchez, an Associate Degree student in Systems Analytics with pas
 Knowledge in:
 - JavaScript
 - TypeScript
+- React
+- Firebase
 - HTML
 - CSS
 - C++
