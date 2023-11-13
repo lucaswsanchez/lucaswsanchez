@@ -19,4 +19,4 @@ I'm learning:
 ## Contact
 - Email: 42994495lucas@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/lucaswsanchez/)
-- [Portfolio](https://sanchezlucas-portfolio.netlify.app/)
+- [Portfolio](https://lucassanchez.netlify.app/)
