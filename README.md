@@ -1,20 +1,13 @@
 ## About me
 Hi, I'm Lucas Sanchez, an Associate Degree student in Systems Analytics with passion for technology and open source code. I love to learn new things and share my knowledge with the community.
 
-## Technologies
+## Technical Skills
 
-Knowledge in:
-- JavaScript
-- TypeScript
-- React
-- Firebase
-- HTML
-- CSS
-- C++
-
-I'm learning:
-- C#
-- .NET
+- Programming Languages: JavaScript, TypeScript, PHP, C#, Java, C++
+- Databases: MySQL, PostgreSQL, SQL Server
+- Frameworks and Libraries: React, NextJS, NestJS, .NET, SpringBoot
+- Cloud Services: Firebase, Supabase
+- Development Tools: Git, GitHub, Postman
 
 ## Contact
 - Email: 42994495lucas@gmail.com
